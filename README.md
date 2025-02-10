@@ -1,1 +1,1 @@
-# Digits-recognition-using-ridge-regression
+# Digits-recognition-using-ridge-regression-model
